@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("mm.jfif");
+    background-size:cover; 
+    background-position:center;
+    background-repeat: no-repeat;
+    height: 800px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.content {
+    background-color: #ffffffb3; 
+    width:auto; 
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
